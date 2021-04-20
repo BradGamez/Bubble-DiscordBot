@@ -1,7 +1,6 @@
 const { Util, MessageEmbed } = require('discord.js');
 const ytdl = require('ytdl-core');
 const yts = require("yt-search")
-var opusscript = require("opusscript");
 
 module.exports = {
     name: "play",
